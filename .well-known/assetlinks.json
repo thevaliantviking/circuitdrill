@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.thevaliantviking.twa",
+        "sha256_cert_fingerprints": ["0E:B7:9A:57:BA:A9:D9:8B:56:37:73:AC:B3:D9:D5:98:A3:6F:31:5A:29:B3:C4:DE:74:59:AA:12:94:72:3C:32"]
+      }
+    }]
